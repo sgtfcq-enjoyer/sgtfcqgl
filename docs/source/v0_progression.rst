@@ -450,16 +450,17 @@ vip0新开号
   :height: 350px 
 
 第28关 
-`````
+````
 .. image:: images/maps/map28/r.png
   :width: 700px
   :height: 350px 
   
 .. image:: images/maps/map28/i1.png
+
   
 第29关 
-`````
-.. image:: images/maps/map29/r.png
+````
+.. image:: images/maps/map4/r.png
   :width: 700px
   :height: 350px 
   
@@ -468,7 +469,7 @@ vip0新开号
   :height: 300px 
 
 第30关 
-`````
+````
 .. image:: images/maps/map30/r.png
   :width: 700px
   :height: 350px 
@@ -476,6 +477,7 @@ vip0新开号
 .. image:: images/maps/map30/i1.png
   :width: 200px
   :height: 300px 
+
 
 
 
