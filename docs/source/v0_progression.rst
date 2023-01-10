@@ -4,7 +4,7 @@ vip0 账号记录
 vip0新开号
 =========
 .. image:: images/newplayerrewards/greet.png
-  :width: 800px
+  :width: 700px
   :height: 400px 
   
 初始界面
