@@ -5,7 +5,7 @@ vip0新开号
 =========
 .. image:: images/newplayerrewards/greet.png
   :width: 800px
-  :height: 500px 
+  :height: 400px 
   
 初始界面
 
@@ -379,10 +379,51 @@ vip0新开号
 `````
 .. image:: images/maps/map24/r.png
   :width: 700px
+  :height: 350px
+  
+第25关 
+`````
+.. image:: images/maps/map25/r.png
+  :width: 700px
+  :height: 350px 
+
+第26关 
+`````
+.. image:: images/maps/map26/r.png
+  :width: 700px
+  :height: 350px 
+
+第27关 
+`````
+.. image:: images/maps/map27/r.png
+  :width: 700px
+  :height: 350px 
+
+第28关 
+`````
+.. image:: images/maps/map28/r.png
+  :width: 700px
+  :height: 350px 
+
+第29关 
+`````
+.. image:: images/maps/map29/r.png
+  :width: 700px
   :height: 350px 
   
+.. image:: images/maps/map29/i1.png
+  :width: 200px
+  :height: 300px 
 
-
+第30关 
+`````
+.. image:: images/maps/map30/r.png
+  :width: 700px
+  :height: 350px 
+  
+.. image:: images/maps/map30/i1.png
+  :width: 200px
+  :height: 300px 
 
 
 
