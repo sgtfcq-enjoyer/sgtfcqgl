@@ -10,5 +10,6 @@
 
 .. toctree::
    main_ui
+   mapbackgrounds
    v0_progression
    api
