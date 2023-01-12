@@ -1,5 +1,7 @@
 地图关卡介绍
 -----------
+背景图合集
+=========
 .. image:: images/mapbackgrounds/map1-0.jpg
   :width: 256px
   :height: 256px
