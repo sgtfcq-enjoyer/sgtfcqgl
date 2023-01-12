@@ -11,5 +11,6 @@
 .. toctree::
    main_ui
    mapbackgrounds
+   questions
    v0_progression
    api
