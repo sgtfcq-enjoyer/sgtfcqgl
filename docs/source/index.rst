@@ -11,7 +11,8 @@
 .. toctree::
    main_ui
    armor
-   map_backgrounds
+   skills
    questions
+   map_backgrounds
    v0_progression
    api
