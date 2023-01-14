@@ -1,6 +1,6 @@
 地图关卡介绍
 -----------
-背景图合集
+前18关卡背景图合集
 =========
 .. image:: images/mapbackgrounds/map1-0.jpg
   :width: 330px
