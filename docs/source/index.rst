@@ -10,6 +10,7 @@
 
 .. toctree::
    main_ui
+   armor
    map_backgrounds
    questions
    v0_progression
