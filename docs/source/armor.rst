@@ -90,7 +90,7 @@
   :width: 90px
   :height: 90px
 
-新手活动7日登陆赠送
+新手七日登录活动赠送
 
 .. list-table::
    :header-rows: 1
@@ -1972,7 +1972,7 @@
 
 影*月牙戟
 ````
-.. image:: images/armor/slot1/yueyaji.png
+.. image:: images/armor/slot1/fangtianhuaji.png
   :width: 90px
   :height: 90px
 
@@ -2876,7 +2876,7 @@
 
 蜀锦紫金铠
 ````
-.. image:: images/armor/slot2/shijinzijinkai.png
+.. image:: images/armor/slot2/shujinzijinkai.png
   :width: 90px
   :height: 90px
 
@@ -3327,7 +3327,7 @@
 
 嗜血渡江衣
 ````
-.. image:: images/armor/slot2/shuxuedujiangyi.png
+.. image:: images/armor/slot2/shixuedujiangyi.png
   :width: 90px
   :height: 90px
 
@@ -5707,7 +5707,7 @@
 
 真*晨凫
 ````
-.. image:: images/armor/slot3/chenxiao.png
+.. image:: images/armor/slot3/chenfu.png
   :width: 90px
   :height: 90px
 
@@ -6939,7 +6939,7 @@
 
 真*太平要术
 ````
-.. image:: images/armor/slot4/taipingyaoshi.png
+.. image:: images/armor/slot4/taipingyaoshu.png
   :width: 90px
   :height: 90px
 
