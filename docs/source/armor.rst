@@ -9,6 +9,7 @@
   :height: 90px
 
 三星通过第0关后解锁，价格180钻
+
 .. list-table::
    :header-rows: 1
 
@@ -49,6 +50,7 @@
   :height: 90px
 
 三星通过第0关后免费获得
+
 .. list-table::
    :header-rows: 1
 
@@ -87,6 +89,7 @@
 .. image:: images/armor/slot1/qinglongyanyuedao.png
   :width: 90px
   :height: 90px
+
 
 
 .. list-table::
@@ -129,6 +132,7 @@
   :height: 90px
 
 三星通过第1关后解锁，价格500金币
+
 .. list-table::
    :header-rows: 1
 
@@ -169,6 +173,7 @@
   :height: 90px
 
 三星通过第2关后解锁，价格600金币
+
 .. list-table::
    :header-rows: 1
 
@@ -193,6 +198,88 @@
      - 20
      - 0
      - 8
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+
+金蝶扇
+````
+.. image:: images/armor/slot1/jindieshan.png
+  :width: 90px
+  :height: 90px
+
+三星通过第3关后解锁，价格1000金币
+
+.. list-table::
+   :header-rows: 1
+
+   * - 攻击
+     - 防御
+     - 生命
+     - 范围
+     - 攻速
+     - 暴击
+     - 闪避
+     - 命中
+     - 增伤
+     - 减伤
+     - 吸血
+     - 抗暴
+     - 抗晕
+     - 格挡
+
+   * - 100
+     - 0
+     - 0
+     - 30
+     - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+
+流星锤
+````
+.. image:: images/armor/slot1/liuxingchui.png
+  :width: 90px
+  :height: 90px
+
+三星通过第4关后解锁，价格1800金币
+
+.. list-table::
+   :header-rows: 1
+
+   * - 攻击
+     - 防御
+     - 生命
+     - 范围
+     - 攻速
+     - 暴击
+     - 闪避
+     - 命中
+     - 增伤
+     - 减伤
+     - 吸血
+     - 抗暴
+     - 抗晕
+     - 格挡
+
+   * - 120
+     - 0
+     - 0
+     - 30
+     - 0
+     - 10
      - 0
      - 0
      - 0
