@@ -7800,7 +7800,7 @@
 
 真*海昏金饼
 ````
-.. image:: images/armor/slot4/jindieshan.png
+.. image:: images/armor/slot4/haihunjinbing.png
   :width: 90px
   :height: 90px
 
