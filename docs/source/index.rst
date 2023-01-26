@@ -12,9 +12,9 @@
    main_ui
    armor
    skills
+   digong_levels
    digong_prize
    heros
    questions
    map_backgrounds
    v0_progression
-   api
